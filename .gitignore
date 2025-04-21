@@ -22,3 +22,12 @@ crash.log
 
 # Other
 .env
+
+# React Frontend - deploymate-ui
+deploymate-ui/node_modules/
+deploymate-ui/.env
+deploymate-ui/build/
+deploymate-ui/.DS_Store
+deploymate-ui/npm-debug.log*
+deploymate-ui/yarn-debug.log*
+deploymate-ui/yarn-error.log*
